@@ -42,4 +42,4 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 
 ## Code
 
-The notebook file BIG_DATA_FinalProject.ipynb includes our code and in it, we train BigDL-DLlib and Spark-based image classification models for predicting Pneumonia from the dataset presented above. 
+The notebook files Neural_Networks_X_Ray_Chest_V1.ipynb and Neural_Networks_X_Ray_Chest_V2.ipynb includes our codes. We tried to train BigDL-DLlib and Spark-based image classification models for predicting Pneumonia from the dataset presented above but we did not succeed it. For both codes, we had a size problem that we could not solve.
