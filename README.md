@@ -1,9 +1,12 @@
 # Final_Project_BIGDATA
 
-Ana
-Charlotte LOISEL
-Marcela
-Paloma
+Ana María Ramírez Bernal
+
+Charlotte Loisel
+
+Maria Marcela Martinez
+
+Paloma Tejera Nevado
 
 ## Evaluation
 
